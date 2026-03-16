@@ -3,7 +3,6 @@
  * Description:  A program that generates Pascal's Triangle based on the number
                  of rows entered by the user using binomial coefficients.
  * Written by:   Muhammad Qasim
- * Registration: 2025-MC-70
  * Date:         March 16, 2026
                                                                                 */
 
