@@ -1,3 +1,11 @@
+/*
+ * File Name:    rock_paper_scissors.c
+ * Description:  A console-based Rock, Paper, Scissors game using nested 
+                 switch-case statements for logic and score tracking.
+ * Written By:   Muhammad Qasim
+ * Date:         March 16, 2026
+                                                                            */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
